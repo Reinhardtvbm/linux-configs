@@ -3,4 +3,4 @@
 -- imports the init.lua from the lua/reinhardt
 require("reinhardt")
 
-vim.cmd.colorscheme("night-owl")
+vim.cmd.colorscheme("catppuccin")

@@ -8,3 +8,6 @@ require("reinhardt.packer")
 
 -- editor settings
 require("reinhardt.set")
+
+-- misc options
+require("reinhardt.opts")
